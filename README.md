@@ -10,7 +10,6 @@
 ## Skills
 - Programming Languages: Python, R
 - Frameworks: TensorFlow, PyTorch
-- Tools: Git, Docker, Kubernetes
 
 ## Projects
 - [firm_prediction](https://github.com/Aayush01055/firm_prediction): A project focused on predicting firm behavior using machine learning techniques.
