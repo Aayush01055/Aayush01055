@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush01055 👋
 
-![Profile views](https://gpvc.arturio.dev/Aayush01055)
+![Profile views](https://komarev.com/ghpvc/?username=Aayush01055)
 
 ## About Me
 - 🔭 I’m currently working on various data science and machine learning projects.
