@@ -1,4 +1,4 @@
-# Hi there, I'm Aayush01055 👋
+# Hi there, I'm Aayush Shah 👋
 
 
 ## About Me
