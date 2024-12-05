@@ -14,7 +14,7 @@
 
 ## Projects
 - [firm_prediction](https://github.com/Aayush01055/firm_prediction): A project focused on predicting firm behavior using machine learning techniques.
-- [de_Data](https://github.com/Aayush01055/de_Data): Data engineering project involving ETL processes.
+- [SLMS](https://github.com/Aayush01055/Software-License-Management-System): System for managing software licenses
 
 ## Contact Me
 - LinkedIn: www.linkedin.com/in/aayush-shah-211b19245
