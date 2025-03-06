@@ -2,9 +2,8 @@
 
 
 ## About Me
-- 🔭 I’m currently working on various data science and machine learning projects.
-- 🌱 I’m currently learning advanced data engineering techniques.
-- 👯 I’m looking to collaborate on open-source projects related to data science.
+- 🔭 I’m currently working on various machine learning projects.
+- 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: [GitHub](https://github.com/Aayush01055)
 
 ## Skills
