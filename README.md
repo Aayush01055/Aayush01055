@@ -7,7 +7,7 @@
 - 📫 How to reach me: [GitHub](https://github.com/Aayush01055)
 
 ## Skills
-- Programming Languages: Python, R
+- Programming Languages: Python
 - Frameworks: TensorFlow, PyTorch
 
 ## Projects
