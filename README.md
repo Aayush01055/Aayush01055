@@ -12,8 +12,7 @@ Ultra-Stunning README for Aayush01055
   <img src="https://img.shields.io/github/followers/Aayush01055?style=social" />
   <img src="https://img.shields.io/github/stars/Aayush01055?style=social" />
   <img src="https://komarev.com/ghpvc/?username=Aayush01055&color=blue" />
-  <img src="https://img.shields.io/badge/Open%20to-Recruiters%20%26%20Collaborators-ff69b4?style=for-the-badge&logo=github" />
-</p>
+ </p>
 
 ---
 
@@ -48,8 +47,6 @@ Ultra-Stunning README for Aayush01055
 
 - 🚀 **Hands-on experience** in machine learning, data science, and scalable software development
 - 🥇 **Active open source contributor**
-- 🗣️ **Speaker at tech meetups** and community events
-- 🌏 **Global collaborations** with developers & organizations
 
 ---
 
