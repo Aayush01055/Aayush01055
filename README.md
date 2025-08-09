@@ -79,8 +79,6 @@ See more in my [repositories](https://github.com/Aayush01055?tab=repositories)!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aayush01055&show_icons=true&theme=tokyonight&hide_border=true" alt="Aayush's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush01055&theme=tokyonight&hide_border=true" alt="Aayush's GitHub Streak" />
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush01055&theme=tokyonight" alt="Repos per language" />
 </p>
 
